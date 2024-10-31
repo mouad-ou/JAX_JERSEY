@@ -1,0 +1,12 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files
+*.java text
+*.xml text
+*.properties text
+*.txt text
+
+# Handle specific binary files
+*.jpg binary
+*.png binary
